@@ -1,4 +1,4 @@
-## aF-MD ```Simple WhatsApp Bot.```
+<!-- ## aF-MD ```Simple WhatsApp Bot.```
 ### Preconditions :
 - Heroku/Railway/Command Prompt/Termux Or Other Cloud Platform
 - Requires ```FFmpeg``` ```imagemagick```
@@ -20,3 +20,6 @@ winget install --id Git.Git -e --source winget
 git clone https://github.com/DinnPsatirZz/af-md
 npm i imagemagick
 npm i webp
+
+-->
+Nanti masi bingung :v
